@@ -7,7 +7,8 @@ This TensorFlow model predicts 10 classes of animals - butterfly, cat, chicken, 
 * matplotlib
 * pillow
 
-Dataset
+**Dataset**
+
 **Kaggle**: https://www.kaggle.com/datasets/alessiocorrado99/animals10
 The dataset used to train the model is not included in this repository.The photos should be organized in folders named after the corresponding class. For example, all photos of cats should be in a folder named "cat", all photos of dogs should be in a folder named "dog", and so on. Otherwise, just use **preprocessing.ipynb**
 
